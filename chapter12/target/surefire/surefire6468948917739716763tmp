@@ -1,0 +1,5 @@
+#surefire
+#Tue Aug 20 10:04:38 CST 2019
+user.dir=D\:\\code\\AutoTest1\\chapter12
+localRepository=D\:\\download\\test_auto\\apache-maven-3.3.9\\repo
+basedir=D\:\\code\\AutoTest1\\chapter12
